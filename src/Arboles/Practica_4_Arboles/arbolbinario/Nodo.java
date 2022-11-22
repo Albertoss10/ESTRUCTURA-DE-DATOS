@@ -1,4 +1,4 @@
-package Practica_4_Arboles.arbolbusqueda;
+package Arboles.Practica_4_Arboles.arbolbinario;
 
 public class Nodo {
 
