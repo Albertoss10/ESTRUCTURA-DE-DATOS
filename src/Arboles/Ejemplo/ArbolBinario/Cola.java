@@ -1,4 +1,4 @@
-package Arboles.Ejemplo;
+package Arboles.Ejemplo.ArbolBinario;
 
 public class Cola {
     private Nodo primero, ultimo;

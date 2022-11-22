@@ -1,4 +1,4 @@
-package Arboles.Ejemplo;
+package Arboles.Ejemplo.ArbolBinario;
 
 import java.util.ArrayDeque;
 
